@@ -10,3 +10,10 @@ public:
         return ans;
     }
 };
+
+
+//Formula - Catalan numbers
+/*
+C_n+1 = C_n * 2(2n+1)/n+2
+\]
+*/
